@@ -3,6 +3,7 @@
 <p>a responsive React application that displays news articles fetched from a public API. The application should allow users to filter articles based on categories and implement pagination to navigate through articles efficiently.</p>
 
 Go Live on -> https://react-news-portal-seven.vercel.app/
+Youtube Link-> https://www.youtube.com/watch?v=H1FnVpy0LkY
 
 ## Setup
 
